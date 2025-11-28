@@ -40,7 +40,7 @@ This project demonstrates a complete machine learning workflow to predict custom
 ## Model Performance
 
 - **Model:** Random Forest Classifier  
-- **Accuracy on Test Data:** X%  *(replace X with your actual score)*  
+- **Accuracy on Test Data:** 79%    
 
 ---
 
